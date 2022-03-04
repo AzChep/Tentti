@@ -36,5 +36,4 @@ def uppaa_blubi():
 
 
 if __name__ == "__main__":
-    #suorita()
-    uppaa_blubi()
+    suorita()
